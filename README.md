@@ -11,6 +11,7 @@ Contains Contents, UI, Library, ETC...
 - Optimizing - Prevent Frame drop, Memory Optimize
 - Library Optimize & Strengthen the Week Point
 - Generic Library Develop
+- Load Restructuring
 - Trade System
 - Grow up System Improve By Add Grow up Item Type
 - Direction 3D Modeling By Render Texture
