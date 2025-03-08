@@ -9,6 +9,7 @@ Contains Contents, UI, Library, ETC...
 ### Summary - Project_NBA
 
 - Optimizing - Prevent Frame drop, Memory Optimize
+- DevTool - Packet Tester
 - Library Optimize & Strengthen the Week Point
 - Generic Library Develop
 - Load Restructuring
